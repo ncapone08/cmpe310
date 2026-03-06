@@ -2,7 +2,6 @@
 ## Compile
 
 cd lab1\
-
 print_hello.s\
 gcc -nostdlib -no-pie print_hello.s -o hello\
 ./hello
@@ -28,12 +27,12 @@ gcc -no-pie Task_4.s print_ram.c -o task4\
 
 cd lab2\
 gcc -no-pie lab2.s -o run\
-./run\
+./run
 
 # Lab 3
 ## Compile
 
 cd lab3\
 gcc lab3.c lab3.s -o run\
-./run\
+./run
 
