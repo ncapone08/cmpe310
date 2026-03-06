@@ -29,10 +29,10 @@ cd lab2\
 gcc -no-pie lab2.s -o run\
 ./run
 
-# Lab 3
+# Lab 4
 ## Compile
 
-cd lab3\
-gcc lab3.c lab3.s -o run\
+cd lab4\
+gcc lab4.c lab4.s -o run\
 ./run
 
