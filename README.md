@@ -20,7 +20,7 @@ gcc -no-pie Task_3.s print_ram.c -o task3\
 
 Task_4.s\
 gcc -no-pie Task_4.s print_ram.c -o task4\
-./task4\
+./task4
 
 # Lab 2
 ## Compile
